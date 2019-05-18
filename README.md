@@ -34,4 +34,8 @@
 
 ### Sorting
 
+- [__Quick Sort__]
+
 ### Search
+
+- [__Binary Search__]
