@@ -59,7 +59,7 @@
 
 #### [Binary Tree: Traversals (Inorder, Preorder, Postorder)](https://github.com/sergius-la/Algorithms-Python/blob/master/Data_Structure/binary_trees.py)
 
-- Preorder Traversal:
+- Traversal:
     - [_LeetCode: Binary Tree Preorder Traversal_](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/binary_tree_preorder_traversal.py)
 
 <!-- Линейные структуры данных -->
