@@ -19,9 +19,9 @@
 
 ### General
 
-- FizzBuzz - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/FizzBuzz.java)
+- [_Codingbat: FizzBuzz_](https://codingbat.com/prob/p115243?parent=/doc/practice/fizzbuzz-code.html) - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/FizzBuzz.java)
 - Smallest Change - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/SmallestChange.java)
-- [__Reverce Integer__]
+- [_Reverse Integer_](https://leetcode.com/problems/reverse-integer/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/reverse_integer.py)
 
 ### Mathematical
 
@@ -34,22 +34,24 @@
 - String Compression - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/StringCompression)
 - [_LeetCode: Valid Palindrome_](https://leetcode.com/problems/valid-palindrome/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
 - [_LeetCode: Valid Parentheses_](https://leetcode.com/problems/valid-parentheses/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
+- [_Longest Substring Without Repeating Characters_]
 
 ### Arrays
 
 - In-place algorithm:
-    - Remove Duplicates from Sorted Array: [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
+    - [_LeetCode: Remove Duplicates from Sorted Array_](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
     - [_LeetCode: Remove element_](https://leetcode.com/problems/remove-element/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
 - Consecutive Array - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/ConsecutiveArray.java)
-- [__Merge Sorted Arrays__]
+- [_Merge Sorted Arrays_]
+- [_Sum of Two_]
 
 ### Sorting
 
-- [__Quick Sort__]
+- [_Quick Sort_]
 
 ### Search
 
-- [__Binary Search__] -->
+- [_Binary Search_]
 
 <!-- Линейные структуры данных -->
 <!-- Stack: Stack pointer, push, pop -->
