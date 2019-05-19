@@ -32,7 +32,9 @@
 
 - Anagrams - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/Anagrams.java)
 - String Compression - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/StringCompression)
-- [_LeetCode: Valid Palindrome_](https://leetcode.com/problems/valid-palindrome/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
+- Palindrome:
+    - [_LeetCode: Valid Palindrome_](https://leetcode.com/problems/valid-palindrome/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
+    - [_LeetCode: Palindrome Number_](https://leetcode.com/problems/palindrome-number/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/palindrome_number.py)
 - [_LeetCode: Valid Parentheses_](https://leetcode.com/problems/valid-parentheses/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
 - [_Longest Substring Without Repeating Characters_]
 
