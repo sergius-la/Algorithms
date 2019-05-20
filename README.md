@@ -53,7 +53,7 @@
 
 ### Search
 
-- [_Binary Search_]
+- [__Binary Search__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture10/binary_search.py)
 
 # Data structure
 
