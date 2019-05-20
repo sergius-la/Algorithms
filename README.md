@@ -61,6 +61,7 @@
 
 - Traversal:
     - [_LeetCode: Binary Tree Preorder Traversal_](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/binary_tree_preorder_traversal.py)
+    - [_LeetCode: Binary Tree Inorder Traversal_](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/binary_tree_inorder_traversal.py)
 
 <!-- Линейные структуры данных -->
 <!-- Stack: Stack pointer, push, pop -->
