@@ -44,7 +44,7 @@
     - [_LeetCode: Remove Duplicates from Sorted Array_](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
     - [_LeetCode: Remove element_](https://leetcode.com/problems/remove-element/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
 - Consecutive Array - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/ConsecutiveArray.java)
-- [_Merge Sorted Arrays_]
+- [__Merge Sorted Arrays__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture9/merge_sorted_arrays.py)
 - [_Sum of Two_]
 
 ### Sorting
