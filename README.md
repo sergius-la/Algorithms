@@ -19,7 +19,7 @@
 
 ### General
 
-- [_Codingbat: FizzBuzz_](https://codingbat.com/prob/p115243?parent=/doc/practice/fizzbuzz-code.html) - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/FizzBuzz.java)
+- [_FizzBuzz_](https://codingbat.com/prob/p115243?parent=/doc/practice/fizzbuzz-code.html) - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/FizzBuzz.java)
 - Smallest Change - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/SmallestChange.java)
 - [_Reverse Integer_](https://leetcode.com/problems/reverse-integer/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/reverse_integer.py)
 
