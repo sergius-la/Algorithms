@@ -55,7 +55,9 @@
 ### Search
 
 - [_LeetCode: Search insert position_](https://leetcode.com/problems/search-insert-position/submissions/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/search_insert_position.py)
-- Binary Search - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture10/binary_search.py)
+- Binary Search: 
+  - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture10/binary_search.py)
+  - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/blob/master/src/main/java/search/numbers/BinarySearch.java) 
 
 # Data structure
 
