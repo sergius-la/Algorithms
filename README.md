@@ -48,6 +48,10 @@
 - [__Merge Sorted Arrays__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture9/merge_sorted_arrays.py)
 - [_Sum of Two_]
 
+### Multidimensional Arrays
+
+- Has gaps - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/blob/master/src/main/java/arrays/gaps/Gaps.java)
+
 ### Sorting
 
 - [__Quick Sort by Tony Hoare__](https://github.com/sergius-la/Algorithms-Java/blob/d409e5db763e0eef2dbc299b903061bc98b4c3d9/src/main/java/sorting/numbers/QuickSort.java)
