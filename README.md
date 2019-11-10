@@ -22,6 +22,7 @@
 - [_FizzBuzz_](https://codingbat.com/prob/p115243?parent=/doc/practice/fizzbuzz-code.html) - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/FizzBuzz.java)
 - Smallest Change - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/SmallestChange.java)
 - [_Reverse Integer_](https://leetcode.com/problems/reverse-integer/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/reverse_integer.py)
+- Inplace var swap - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/blob/23974d8123627c90ebad7f4600c830d324c3555b/src/main/java/variables/SwapValue.java) 
 
 ### Mathematical
 
