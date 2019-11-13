@@ -39,12 +39,14 @@
     - [_LeetCode: Palindrome Number_](https://leetcode.com/problems/palindrome-number/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/palindrome_number.py)
 - [_LeetCode: Valid Parentheses_](https://leetcode.com/problems/valid-parentheses/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
 - [_Longest Substring Without Repeating Characters_]
+- First Character:
+  - First 
 
 ### Arrays
 
 - In-place algorithm:
     - [_LeetCode: Remove Duplicates from Sorted Array_](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_palindrome.py)
-    - [_LeetCode: Remove element_](https://leetcode.com/problems/remove-element/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py)
+    - Remove element - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/valid_parentheses.py) [__`Java`__](https://github.com/sergius-la/Algorithms-Java/blob/a5aead96d44d910becaaaef0ccfb5a6b83388807/src/main/java/arrays/in_place/RemoveElement.java)
     - [_LeetCode: Reverse String_](https://leetcode.com/problems/reverse-string/) - [__`Python`__](https://github.com/sergius-la/Algorithms-Python/tree/master/LeetCode/reverse_string.py)
 - Consecutive Array - [__`Java`__](https://github.com/sergius-la/Algorithms-Java/tree/master/src/main/java/ByteByByte/ConsecutiveArray.java)
 - [__Merge Sorted Arrays__](https://github.com/sergius-la/Algorithms-Python/tree/master/mfti/lecture9/merge_sorted_arrays.py)
